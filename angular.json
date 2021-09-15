@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "testchotot"
+    }
+  },
+  "defaultProject": "testchotot",
+  "cli": {
+    "analytics": false
+  }
 }
